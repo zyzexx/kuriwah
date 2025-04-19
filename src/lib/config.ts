@@ -51,7 +51,7 @@ export const members: Member[] = [
   {
     name: "kuriwah",
     link: "https://kuri.sh",
-    discord_id: "1294576960600670229",
+    discord_id: "1307049503806849065",
     github: "kuriwah",
     projects: [
       {
@@ -66,8 +66,16 @@ export const members: Member[] = [
         name: "kuriware",
         description: "kuriware was an injectable client made for minecaft 1.8.9",
         url: "https://youtu.be/R8Pffgni_xZk",
-        icon: "https://ibb.co/GQF1JK7D",
+        icon: "https://i.ibb.co/9HGfvFn0/ea6ba8b1-2c88-4386-bb1a-ab9ba1a6ea96.png",
         type: "website" as const,
+      },
+      {
+        name: "Equicord",
+        description:
+          "A fork of Vencord, with over 300+ plugins.",
+        url: "https://equicord.org",
+        type: "website" as const,
+        icon: "https://cdn.nest.rip/uploads/631b0748-d276-4f49-ae0d-ced2b7c962c1.svg",
       },
       {
         name: "Stellar Tweaks",
@@ -75,13 +83,6 @@ export const members: Member[] = [
           "Stellar Tweaks is an upcoming free and opensource modification for Lunar Client which allows modding, customizing Lunar Client features and much more",
         url: "https://github.com/StellarTweaks",
         icon: "https://cdn.discordapp.com/icons/1330204720014426122/aa45672764ca374d665fa4a2c291a96e.png?size=128",
-        type: "github" as const,
-      },
-      {
-        name: "Remake",
-        description:
-          "Remake is a free and opensource library to modify Java classes at runtime, without the need of any java agent",
-        url: "https://github.com/StellarTweaks/Remake",
         type: "github" as const,
       },
     ],
