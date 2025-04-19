@@ -77,14 +77,6 @@ export const members: Member[] = [
         type: "website" as const,
         icon: "https://cdn.nest.rip/uploads/631b0748-d276-4f49-ae0d-ced2b7c962c1.svg",
       },
-      {
-        name: "Stellar Tweaks",
-        description:
-          "Stellar Tweaks is an upcoming free and opensource modification for Lunar Client which allows modding, customizing Lunar Client features and much more",
-        url: "https://github.com/StellarTweaks",
-        icon: "https://cdn.discordapp.com/icons/1330204720014426122/aa45672764ca374d665fa4a2c291a96e.png?size=128",
-        type: "github" as const,
-      },
     ],
   },
   {
