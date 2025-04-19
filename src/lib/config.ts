@@ -52,7 +52,7 @@ export const members: Member[] = [
     name: "kuriwah",
     link: "https://kuri.sh",
     discord_id: "1307049503806849065",
-    github: "zyzexx/kuriwah/kuriwah",
+    github: "zyzexx/kuriwah/blob/main/kuriwah.png?raw=true",
     projects: [
       {
         name: "Ectasy",
